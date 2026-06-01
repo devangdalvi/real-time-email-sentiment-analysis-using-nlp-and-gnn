@@ -1,4 +1,4 @@
-🧠📩 Email → GNN Sentiment Analysis System
+###🧠📩 Email → GNN Sentiment Analysis System
 An end-to-end Email Sentiment Analysis System that leverages Natural Language Processing (NLP) and Graph Neural Networks (GNNs) to classify incoming emails as Positive, Negative, or Neutral in real time.
 
 ---
